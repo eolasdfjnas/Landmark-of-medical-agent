@@ -118,6 +118,8 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
+| [Grounded by Experience: Generative Healthcare Prediction Augmented with Hierarchical Agentic Retrieval](https://arxiv.org/abs/2511.13293) | [GitHub](https://github.com/Data-Designer/RAGHealth/) | application |
+| [Reinventing Clinical Dialogue: Agentic Paradigms for LLM‑Enabled Healthcare Communication](https://arxiv.org/html/2512.01453v1) | [GitHub](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/tree/main) | survey |
 | [Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/pdf/2512.00818) | [GitHub](https://github.com/LsmnBmnc/Med-CMR) | evaluation |
 | [3mdbench: Medical multimodal multi-agent dialogue benchmark](https://arxiv.org/abs/2504.13861) | [GitHub](https://github.com/univanxx/3mdbench) | evaluation |
 | [A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279) | [GitHub](https://github.com/zhihuanglab/TissueLab) | other |
@@ -946,6 +948,8 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
+
 
 
 
